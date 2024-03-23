@@ -33,7 +33,7 @@ or normally download the ZIP file from **Code > Download ZIP**
   pip install -r requirements.txt
 ```
 
-- 🚩 Open the `grabber.py` in a Text Editor **(Notepad or better VSC)** and edit the Webhook address and the name
+- 🚩 Open the `grabber.py` in a Text Editor **Notepad or better VSC** and edit the **__Webhook address and the name__**
 - 🚩 I recommend you to **convert** the script to .exe before sending it to the victim **(Tutorial below)**
 ## 💾 How to Convert and Config
 - Install `auto-py-to-exe` with pip
@@ -57,4 +57,5 @@ auto-py-to-exe
 
 You should get an **executable file (.exe)** that you can send to the victim. ✅
 #
+Thanks for using/editing my script. 😉
 For educational purposes only! ⛔
