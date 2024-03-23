@@ -2,7 +2,7 @@
 <h1 align="center">Simple Screenshot GrabberL</h1>
 <h3 align="center">A simple Screenshot Grabber for Discord Webhook written in Python. 📸</h3>
 
-# 👀 Features
+## 👀 Features
 
 - ✅ Customizable Webhook address and name
 - ✅ Shows **Screenshot and Hardware info** directly in the webhook
